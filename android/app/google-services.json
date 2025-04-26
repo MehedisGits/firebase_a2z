@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190607672953",
+    "project_id": "fir-practice-project-a2z-87d97",
+    "storage_bucket": "fir-practice-project-a2z-87d97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190607672953:android:4d6afb03858aebbaddb6a8",
+        "android_client_info": {
+          "package_name": "com.nexarise.firebase_a2z.firebase_a2z"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADxid-IiaESv8YceAjhy1J49igVK8PxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190607672953:android:f58f9833b1dcf812ddb6a8",
+        "android_client_info": {
+          "package_name": "com.nexarise.firebase_a2z.firebase_practice_project_a2z"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAADxid-IiaESv8YceAjhy1J49igVK8PxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
